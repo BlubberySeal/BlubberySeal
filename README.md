@@ -23,6 +23,8 @@ DISCLAIMER: I am not the only contributor to this project.
 
 ### STARS Planner ###
 
-This is a simple (but largely unoptimised/inefficient) Python code that helps a NTU student to better plan out his/her modules. Requires a few minutes of manual input before running the code. All timetable combinations (without clashes) are generated and can be filtered for free days accordingly. View the code [here](https://github.com/BlubberySeal/STARS-Planner). Code will continue to be updated to include new features, improve efficiency and presentability.
+This is a simple (but largely unoptimised/inefficient) Python code that helps a NTU student to better plan out his/her modules. Requires a few minutes of manual input before running the code. Code will continue to be updated to include new features, improve efficiency and presentability.
+
+View the code [here](https://github.com/BlubberySeal/STARS-Planner). 
 
 Note: Automatic webscraping version built using Selenium has been broken by recent redesign of NTU's website.
