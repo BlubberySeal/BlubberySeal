@@ -19,6 +19,10 @@ The project is split into two parts:
 
 DISCLAIMER: I am not the only contributor to this project.
 
+### Ames Housing Data ###
+
+This is a popular dataset that can be found on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). I practice a few simple Data Cleaning, Feature Engineering techniques in this exercise, obtaining a score of 0.13299. View the notebook [here](https://github.com/BlubberySeal/ames-housing-data/blob/main/Regression%20Algorithms.ipynb).
+
 # Miscanelleous Projects #
 
 ### STARS Planner ###
